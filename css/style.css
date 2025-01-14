@@ -278,8 +278,7 @@ header .nav__links__cta {
   gap: 2rem;
   width: min(100%, 1100px);
   margin: auto;
-  padding: 100px 10px;
-  border: solid 10px pink;
+  padding: 40px 10px;
 }
 .services__wrapper__card {
   width: min(100%, 500px);
